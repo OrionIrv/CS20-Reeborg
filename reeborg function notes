@@ -1,0 +1,26 @@
+###################################
+#basic function approch
+#complets a task
+#def go_goal():
+#    while not at_goal():
+#        move()
+#    else:
+#        done()
+#go_goal()
+#####################################
+#data imput approach
+#completes a task based on imputs
+#    think(speed)
+#    for x in range(distance):
+#        move()
+#go_to_goal(50,6)
+#####################################
+#Return Approach
+#does task and returns data out of function
+#def steps_to_take():
+#    return 6
+#def go_to_goal(distance):
+#    for x in range(distance):
+#        move()
+#steps = steps_to_take()
+#go_to_goal(steps)
